@@ -17,5 +17,5 @@ An intelligent, machine-learning-powered API Gateway designed to detect and bloc
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR-USERNAME/ai-api-firewall.git](https://github.com/YOUR-USERNAME/ai-api-firewall.git)
+git clone https://github.com/Wadan3/ai-api-firewall.git
 cd ai-api-firewall
